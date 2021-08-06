@@ -1,5 +1,15 @@
 # 1.北京联通IPTV播放列表
 
+## TL;DR:
+M3U: 
+```
+https://raw.githubusercontent.com/babyformula/bj-unicom-iptv/master/bj-unicom-iptv.m3u
+```
+EPG: 
+```
+http://epg.51zmt.top:8000/e.xml
+```
+
 ## 节目源来源:
 [北京联通IPTV列表](https://gist.github.com/sdhzdmzzl/93cf74947770066743fff7c7f4fc5820)
 
