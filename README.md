@@ -9,6 +9,7 @@ EPG:
 ```
 http://epg.51zmt.top:8000/e.xml
 ```
+注: 192.168.2.1:8012 为udproxy的ip与端口, 不同域网会有不同, 详情参考自己的路由器或软路由.
 
 ## 节目源来源:
 [北京联通IPTV列表](https://gist.github.com/sdhzdmzzl/93cf74947770066743fff7c7f4fc5820)
